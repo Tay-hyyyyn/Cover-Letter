@@ -12,7 +12,7 @@
 - `[x]` **[SAMT]** 기술영업 신입 직무 분석 및 JD 매핑 완료
 
 ### 🟢 Phase 2: 자소서 초안 작성 및 사용자 수정 중 (Drafting & Review)
-- `[ ]` **[Yuhan-Kimberly]** 자소서 문항 및 초안 작성 대기 중
+- `[x]` **[Yuhan-Kimberly]** 대전사업장 프로세스 엔지니어 초안 작성 완료 (사용자 검토 대기 중)
 
 ### 🔵 Phase 3: 최종본 적재 및 학습 (Finalization & Learning)
 - `[x]` **[Amkor Technology]** 최종본 Reference 적재 및 트렌드 학습 완료
