@@ -8,11 +8,10 @@
 - `[ ]` (현재 대기 중인 기업 없음)
 
 ### 🟡 Phase 1: 기업 분석 및 매핑
-- `[x]` **[Chosun Refractories]** 조선내화 제조관리/기능성엔지니어링 직무 분석 완료 (기능성 추천, 문항 대기 중)
 - `[x]` **[SAMT]** 기술영업 신입 직무 분석 및 JD 매핑 완료
 
 ### 🟢 Phase 2: 자소서 초안 작성 및 사용자 수정 중 (Drafting & Review)
-- `[ ]` (현재 검토 대기 중인 기업 없음)
+- `[x]` **[Chosun Refractories]** 기능성 엔지니어링 직무 자소서 초안 작성 완료 (사용자 검토 대기 중)
 
 ### 🔵 Phase 3: 최종본 적재 및 학습 (Finalization & Learning)
 - `[x]` **[Yuhan-Kimberly]** 최종본 Reference 적재 및 트렌드 학습 완료
