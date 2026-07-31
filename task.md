@@ -2,10 +2,15 @@
 
 각 기업별 자소서 진행 상태를 병렬로 관리하는 칸반(Kanban) 스타일의 태스크 보드입니다.
 
+## 💻 디바이스 동기화 현황 (Device Sync Status)
+- **최근 작업 디바이스**: `[Main PC]`
+- **디바이스 목록**: `[Main PC]` / `[Personal Laptop]` / `[Campus Laptop]`
+- **동기화 원격 저장소**: `https://github.com/Tay-hyyyyn/Cover-Letter.git (main)`
+
 ## 📊 진행 현황 (Pipeline Status)
 
 ### 🔴 Phase 0: 포지션 추천 대기/진행
-- `[ ]` (현재 대기 중인 기업 없음)
+- `[x]` **[TCK (티씨케이)]** SiC가공 공정관리 vs 영업기획 포지션 추천 완료
 
 ### 🟡 Phase 1: 기업 분석 및 매핑
 - `[x]` **[Samick THK (삼익THK)]** 오토노미 기술영업(AMR/AGV) 직무 분석 완료 (문항 대기 중)
@@ -14,6 +19,7 @@
 - `[x]` **[SAMT]** 기술영업 신입 직무 분석 및 JD 매핑 완료
 
 ### 🟢 Phase 2: 자소서 초안 작성 및 사용자 수정 중 (Drafting & Review)
+- `[x]` **[TCK (티씨케이)]** SiC가공 공정관리 자소서 초안 작성 완료 (사용자 검토 대기 중)
 - `[x]` **[SFA Semicon (SFA반도체)]** PKG기술팀 공정 Engineer (F/C공정, B/S공정) 자소서 초안 작성 완료 (사용자 검토 대기 중)
 
 ### 🔵 Phase 3: 최종본 적재 및 학습 (Finalization & Learning)
